@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="/estiloFooter.css?v=<?php echo time(); ?>" />
+<link rel="stylesheet" type="text/css" href="/tour-francia-app/estiloFooter.css?v=<?php echo time(); ?>" />
 
 <footer>
     <div class="creditos">
