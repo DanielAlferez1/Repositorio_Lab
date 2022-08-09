@@ -8,3 +8,17 @@ Las observaciones realizadas con Unature proporcionarían datos valiosos a proye
 ## Requerimiento Priorizado
 Realizar Publicación
 
+## Metodología Seleccionada
+Scrum
+
+## Roles
+### Desarolladores:
+#### Frontend: 
+##### Desarrollo: Carlos Muñoz
+##### Diseño/Maquetado: Freinder Matoma
+#### Backend:
+### Desarrollo: Juan David  
+#### Base de datos: Daniel Alferez
+### Q/A: Todos
+### Product Owner: Daniel Alferez
+
