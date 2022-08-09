@@ -16,9 +16,9 @@ Scrum
 #### i. Frontend: 
 ##### 1. Desarrollo: Carlos Muñoz
 ##### 2. Diseño/Maquetado: Freinder Matoma
-### ii. Backend:
-#### 1. Desarrollo: Juan David  
-#### 2. Base de datos: Daniel Alferez
+#### ii. Backend:
+##### 1. Desarrollo: Juan David  
+##### 2. Base de datos: Daniel Alferez
 ### b. Q/A: Todos
 ### c. Product Owner: Daniel Alferez
 
